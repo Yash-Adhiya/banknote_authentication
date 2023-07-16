@@ -4,6 +4,11 @@
 
 The dataset consists of 1372 examples and 4 features for binary classification. The features are
 
+1. variance of a wavelet-transformed image (continuous)
+2. skewness of a wavelet-transformed image (continuous)
+3. kurtosis of a wavelet-transformed image (continuous)
+4. entropy of the image (continuous)
+
 variance of a wavelet-transformed image (continuous)
 skewness of a wavelet-transformed image (continuous)
 kurtosis of a wavelet-transformed image (continuous)
