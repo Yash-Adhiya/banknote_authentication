@@ -1,5 +1,7 @@
 ### Banknote Authentication
 
+![image](https://github.com/Yash-Adhiya/banknote_authentication/assets/76459878/11895b5f-24ad-4250-8edd-ac3e4f970997)
+
 The dataset consists of 1372 examples and 4 features for binary classification. The features are
 
 variance of a wavelet-transformed image (continuous)
